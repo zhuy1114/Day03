@@ -1,0 +1,2 @@
+2020-07-15 16:17:47,758 INFO [test_pub_article.py(test_pub_article:24)] - 发布的文章信息为：文章标题=testCase_15161729，文章内容=找工作，就业啊，文章频道=授课专用
+2020-07-15 16:18:36,433 INFO [test_pub_article.py(test_pub_article:24)] - 发布的文章信息为：文章标题=testCase_15161827，文章内容=找工作，就业啊，文章频道=授课专用

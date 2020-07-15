@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_pub_article.py:24 发布的文章信息为：文章标题=testCase_15161827，文章内容=找工作，就业啊，文章频道=授课专用
